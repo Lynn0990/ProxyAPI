@@ -22,9 +22,9 @@
 
 付费代理推荐：
 
-- [ADSL 拨号代理](https://platform.acedata.cloud/documents/a82a528a-8e32-4c4c-a9d0-a21be7c9ef8c)：海量拨号（中国境内）高质量代理
-- [海外/全球代理](https://platform.acedata.cloud/documents/50f1437a-1857-43c5-85cf-5800ae1b31e4)：中国境外高质量代理
-- [蜂窝 4G/5G 代理](https://platform.acedata.cloud/documents/1cc59b19-1550-4169-a59d-ad6faf7f7517)：极高质量（中国境内）防风控代理
+- [ADSL 拨号代理](https://surl.id/1uKeEkQpWX)：海量拨号（中国境内）高质量代理
+- [海外/全球代理](https://surl.id/1uKeEkQkSZ)：中国境外高质量代理
+- [蜂窝 4G/5G 代理](https://surl.id/1uKeEkLm95)：极高质量（中国境内）防风控代理
 
 ## 使用准备
 
